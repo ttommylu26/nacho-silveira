@@ -48,8 +48,14 @@
 }
 
 #card--link{
-    width: 100%;
+    width: 269px;
     display: flex;
+    padding: 4mm;
+}
+
+#card--link a{
+    position: absolute;
+    margin-left: 192.9px;
 }
 
 #card--link--left-half{
