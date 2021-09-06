@@ -50,12 +50,8 @@
 #card--link{
     width: 269px;
     display: flex;
+    justify-content: space-between;
     padding: 4mm;
-}
-
-#card--link a{
-    position: absolute;
-    margin-left: 190.9px;
 }
 
 #card--link--left-half{
