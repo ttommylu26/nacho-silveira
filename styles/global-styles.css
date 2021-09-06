@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     text-decoration-line: none;
-    font-family: 'Segoe UI';
+    font-family: 'Urbanist';
 }
 
 #background{
@@ -33,7 +33,7 @@
     width: 300px;
     border-top-left-radius: 0.3cm;
     border-top-right-radius: 0.3cm;
-    margin-bottom: -4px;
+    margin-bottom: -7px;
 }
 
 #card--header{
@@ -43,7 +43,7 @@
     text-align: center;
 }
 
-#card--header h3, #card--header h5{
+#card--header h2, #card--header h4{
     font-weight: 100;
 }
 
@@ -55,7 +55,7 @@
 
 #card--link a{
     position: absolute;
-    margin-left: 192.9px;
+    margin-left: 190.9px;
 }
 
 #card--link--left-half{
@@ -77,12 +77,12 @@
     padding: 2mm;
     color: rgb(95,100,111);
     border-radius: 0.1cm;
+    font-weight: 600;
 }
 
 #card--link a:hover{
     background-color: rgb(26,168,224);
     color: white;
-    font-weight: 500;
     box-shadow: none;
 }
 
