@@ -37,6 +37,8 @@ section{
 
 /* cards */
 #cards{
+    display: flex;
+    flex-wrap: wrap;
 }
 
 #card{
@@ -47,6 +49,7 @@ section{
     padding: 2mm;
     border-radius: 0.3cm;
     margin-right: 6mm;
+    margin-bottom: 4mm;
 }
 
 #card img{
